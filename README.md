@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Projects:</h2>
 
-- [Microsoft Sentinel Honeypot Lab](https://github.com/marconecybertwo/LABURL)
+- [Microsoft Sentinel Honeypot Lab](https://github.com/marconecybertwo/microsoftsentinelhoneypotlab)
 
 
 <h2>👨‍💻 Certifications:</h2>
